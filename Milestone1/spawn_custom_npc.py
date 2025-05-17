@@ -32,7 +32,7 @@ def main():
     actor_list = []
     vai_list = []
     client = carla.Client(args.host, args.port)
-    client.set_timeout(2.0)
+    client.set_timeout(20.0)
 
     try:
         world = client.get_world()
