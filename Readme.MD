@@ -4,21 +4,21 @@
 
 ### Subtask Progress Table
 
-| Subtask ID | Description | Assigned To   | Expected Completion | Status | Notes |
-|------------|-------------|---------------|---------------------|--------|-------|
-| **Milestone 1** | |               | | | |
-| M1.1 | CARLA 0.9.13 Installation | [ALL]         | MM/DD/YYYY | ✅ Completed | Python 3.7 verified |
-| M1.2 | Virtual Environment Setup | [All]         | MM/DD/YYYY | 🟡 Due 11/20 | Need test scripts |
-| M1.3 | API Familiarization | [All]         | MM/DD/YYYY | 🔴 Failed | manual_control.py issues |
-| M1.4 | Basic Movement Implementation | [Rifat, Sara] | MM/DD/YYYY | ⏳ In Progress | Speed control working |
-| M1.5 | Steering Logic | [Rifat, Sara] | MM/DD/YYYY | ❌ Not Started | Need math formulas |
-| **Milestone 2** | |               | | | |
-| M2.1 | LIDAR Detection Setup | [Victor]      | MM/DD/YYYY | ❌ Not Started | |
-| M2.2 | HEALING State Logic | [Victor]      | MM/DD/YYYY | ❌ Not Started | |
-| M2.3 | Avoidance Maneuvers | [Victor]      | MM/DD/YYYY | ❌ Not Started | |
-| **Milestone 3** | |               | | | |
-| M3.1 | Waypoint Routing | [Rifat]       | MM/DD/YYYY | ❌ Not Started | |
-| M3.2 | Traffic Light Integration | [Victor]      | MM/DD/YYYY | ❌ Not Started | |
+| Subtask ID | Description | Assigned To | Expected Completion | Status | Notes |
+|------------|-------------|--------|---------------------|--------|-------|
+| **Milestone 1** | |        |                     | | |
+| M1.1 | CARLA 0.9.13 Installation | ALL    | 11/05/2025          | ✅ Completed | Python 3.7 verified |
+| M1.2 | Virtual Environment Setup | All    | 13/05/2025          | ✅ Completed | Need test scripts |
+| M1.3 | API Familiarization | All    | 16/05/2025          | ✅ Completed | manual_control.py issues |
+| M1.4 | Basic Movement Implementation | [Rifat, Sara] | 17/05/2025          | ✅ Completed | Speed control working |
+| M1.5 | Steering Logic | [Rifat] | 17/05/2025          | ✅ Completed | Excercise route finished |
+| **Milestone 2** | |        |                     | | |
+| M2.1 | LIDAR Detection Setup | [Victor] | MM/DD/YYYY          | ❌ Not Started | |
+| M2.2 | HEALING State Logic | [Victor] | MM/DD/YYYY          | ❌ Not Started | |
+| M2.3 | Avoidance Maneuvers | [Victor] | MM/DD/YYYY          | ❌ Not Started | |
+| **Milestone 3** | |        |                     | | |
+| M3.1 | Waypoint Routing | [Rifat] | MM/DD/YYYY          | ❌ Not Started | |
+| M3.2 | Traffic Light Integration | [Victor] | MM/DD/YYYY          | ❌ Not Started | |
 
 ### Status Key:
 - ✅ Completed
