@@ -17,8 +17,8 @@
 | M2.2 | HEALING State Logic | [Victor]        | 18/05/2025          | ❌ Not Started | |
 | M2.3 | Avoidance Maneuvers | [Victor]        | 18/05/2025          | ❌ Not Started | |
 | **Milestone 3** | |                 |                     | | |
-| M3.1 | Waypoint Routing | [Rifat]         | 19/05/2025          | ❌ Not Started | |
-| M3.2 | Traffic Light Integration | [Rifat, Victor] | 20/05/2025          | ❌ Not Started | |
+| M3.1 | Waypoint Routing | [Rifat]         | 19/05/2025          | ✅ Completed | Waiting for milestone 2 |
+| M3.2 | Traffic Light Integration | [Rifat, Victor] | 20/05/2025          | ⏳ In Progress Rifat | Need Lidar implementation |
 
 ### Status Key:
 - ✅ Completed
