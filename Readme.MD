@@ -10,15 +10,15 @@
 | M1.1 | CARLA 0.9.13 Installation | ALL             | 11/05/2025          | ✅ Completed | Python 3.7 verified |
 | M1.2 | Virtual Environment Setup | All             | 13/05/2025          | ✅ Completed | Need test scripts |
 | M1.3 | API Familiarization | All             | 16/05/2025          | ✅ Completed | manual_control.py issues |
-| M1.4 | Basic Movement Implementation | [Rifat, Sara]   | 17/05/2025          | ✅ Completed | Speed control working |
+| M1.4 | Basic Movement Implementation | [Rifat]   | 17/05/2025          | ✅ Completed | Speed control working |
 | M1.5 | Steering Logic | [Rifat]         | 17/05/2025          | ✅ Completed | Excercise route finished |
 | **Milestone 2** | |                 |                     | | |
 | M2.1 | LIDAR Detection Setup | [Victor]        | 17/05/2025          | ❌ Not Started | |
 | M2.2 | HEALING State Logic | [Victor]        | 18/05/2025          | ❌ Not Started | |
 | M2.3 | Avoidance Maneuvers | [Victor]        | 18/05/2025          | ❌ Not Started | |
 | **Milestone 3** | |                 |                     | | |
-| M3.1 | Waypoint Routing | [Rifat]         | 19/05/2025          | ❌ Not Started | |
-| M3.2 | Traffic Light Integration | [Rifat, Victor] | 20/05/2025          | ❌ Not Started | |
+| M3.1 | Waypoint Routing | [Rifat]         | 19/05/2025          | ✅ Completed | Waiting for milestone 2 |
+| M3.2 | Traffic Light Integration | [Rifat, Victor] | 20/05/2025          | ⏳ In Progress Rifat | Need Lidar implementation |
 
 ### Status Key:
 - ✅ Completed
